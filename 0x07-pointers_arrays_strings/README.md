@@ -1,1 +1,1 @@
-read me for pointers and arrays
+pointer_arrays_stings
